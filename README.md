@@ -9,8 +9,7 @@ Includes the following files:
 
 - 'README.md'      - You are reading it now
 - 'CodeBook.md'    - Description of data set (tables and variables)
-- 'dataset'        - results of the first task (you can read details following by link)
-- 'averages'       - second result
+- 'results.txt'    - final result of the task
 - 'run_analysis.R' - R script 
 
 ! this folder doesn't contain input data for the task. You can download it if you need 
