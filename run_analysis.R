@@ -72,6 +72,5 @@ library(dplyr)
 av_data <- group_by(data,Subject,Activity) %>% summarise_each(funs(mean)) %>% arrange(Subject,Activity)
 
 #saving results to files
-write.table(data,"dataset")
-write.table(av_data,"averages")
+write.table(av_data,"results.txt",row.names = F)
 
