@@ -14,4 +14,4 @@ columns:
 ======================================================
 Contains data frame (108 rows of 68 variables)
 
-Same columns as in dataset, but all variables were summarized by (Subject,Activity) groups
+Same columns as in dataset, but all variables are averages grouped by Subject ans Activity columns
